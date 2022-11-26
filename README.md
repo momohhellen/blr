@@ -1,5 +1,5 @@
 # blr
-## Boston Lobster Roll is a project for House Price Prediction in the City of Boston between 1979
+## Boston Lobster Roll is a project for House Price Prediction in the City of Boston in 1979
 Housing is one of our most essential needs, along with other fundamental needs. 
 Over the years, people's living standards have  improved so as the demand for housing. 
 
